@@ -5,7 +5,7 @@
 		<description></description>
 		<author url="http://homebrewery.naturalcrit.com/share/BJ-Lgr339G">Your Best Friend</author>
 		<update version="0.0.1">
-			<file name="kaprevare_round1.xml" uxxxrl="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/dungeon-masters-guide/items/items-wondrous.xml" />
+			<file name="kaprevare_round1.xml" url="https://raw.githubusercontent.com/InsertMisc/kaprevare_vip/master/kaprevare_round1.xml" />
 		</update>
 	</info>
 	<element name="Holy Guacamole" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_HOLY_GUACAMOLE">
