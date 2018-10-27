@@ -8,7 +8,7 @@
 			<file name="kaprevare.xml" url="https://raw.githubusercontent.com/InsertMisc/kaprevare_vip/master/kaprevare.xml" />
 		</update>
 	</info>
-	<element name="Holy Guacamole" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_HOLY_GUACAMOLE">
+	<element name="Holy Guacamole" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_HOLY_GUACAMOLE">
 		<description>
 			<p>A holy symbol that contains a cover featuring an old, skinny lady. Allows the user to more easily spread the good word of their deity by comparing the scripture to avocado-basd recipes.</p>
 			<p class="indent">+1 holy symbol, affects spells used by the owner.</p>
@@ -23,7 +23,7 @@
 			<set name="rarity">Uncommon</set>
 		</setters>
 	</element>
-	<element name="Ring of pointing" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_RING_OF_POINTING">
+	<element name="Ring of pointing" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_RING_OF_POINTING">
 		<description>
 			<p>A copper ring with an inlad ruby that projects a small visible dot onto any surface.</p>
 		</description>
@@ -38,7 +38,7 @@
 			<set name="rarity">Uncommon</set>
 		</setters>
 	</element>
-	<element name="Brawny Bubble's Blind Bag (5th Edition)" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_BRAWNY">
+	<element name="Brawny Bubble's Blind Bag (5th Edition)" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_BRAWNY">
 		<description>
 			<p>It's what all the kids nowadays think is hip and cool!</p>
 			<p class="indent">This wacky world is full of extremele wacky magic, and you can be part of it! So go ahead, Pop that Bubble™! and discover the magic goodie that fate has chosen for you. Collect all 100 of them!</p>
@@ -51,7 +51,7 @@
 			<set name="rarity">Uncommon</set>
 		</setters>
 	</element>
-	<element name="Scuttle Buddy" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_SCUTTLE_BUDDY">
+	<element name="Scuttle Buddy" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_SCUTTLE_BUDDY">
 		<description>
 			<p>A mechanical beetle that the user can use for spying. It will talk to the user, but won't have anything interesting to say beyond its primary function. The owner can wind it up four times before it breaks. The beetle can easily fit through small places and climb walls. It cannot fly and is very fragile.</p>
 		</description>
@@ -63,7 +63,7 @@
 			<set name="rarity">Uncommon</set>
 		</setters>
 	</element>
-	<element name="Phantom Fist" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_PHANTOM FIST">
+	<element name="Phantom Fist" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_PHANTOM FIST">
 		<description>
 			<p>A guantlet that grants the user +1 to unarmed attack rolls. When successful, the target must succeed a DC 15 Dexterity saving throw or be knocked back 2d4 feet.</p>
 		</description>
@@ -77,7 +77,7 @@
 			<set name="rarity">Uncommon</set>
 		</setters>
 	</element>
-	<element name="Greased Lightning" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_GREASED_LIGHTNING">
+	<element name="Greased Lightning" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_GREASED_LIGHTNING">
 		<description>
 			<p>A tin of shimmering grease that reminds you of summer loving and of your years spent illegally transporting moonshine. Looks like there is enough left in the tin to coat a single non-magical weapon.</p>
 			<p class="indent">When applied to a non-magical weapon, the weapon will now either do standard damage or electric damage. (The amount of damage does not change, only the type of damage.)</p>
@@ -96,7 +96,7 @@
 			<stat name="Speed" value="30" bonus="base" />
 		</rules>
 	</element>
-	<element name="Rusted Can of Bean Juice" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_BEAN_JUICE">
+	<element name="Rusted Can of Bean Juice" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_BEAN_JUICE">
 		<description>
 			<p>A very badly worn can that radiates vital energy. Whoever drinks its contents gains +5 to their max hit points.</p>
 		</description>
@@ -114,7 +114,7 @@
 			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
 		</rules>
 	</element>
-	<element name="Phone-a-friend Scrying Bones" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_PHONE_A_FRIEND">
+	<element name="Phone-a-friend Scrying Bones" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_PHONE_A_FRIEND">
 		<description>
 			<p>Once per day, can be used to ask a yes, no, or maybe question to the fates (DM). There are three bones carved into people with happy faces and sad faces. All happy faces mean yes, all sad faces mean no, anything in between means maybe. The DM can respond or choose not to answer.</p>
 		</description>
@@ -129,7 +129,7 @@
 			<set name="rarity">Uncommon</set>
 		</setters>
 	</element>
-	<element name="Stone of Far Speech" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_STONES_OF_FARSPEECH">
+	<element name="Stone of Far Speech" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_STONES_OF_FARSPEECH">
 		<description>
 			<p>A small stone that can connect to other similar stones and allow for communication between the owners.</p>
 		</description>
@@ -147,7 +147,7 @@
 			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_FORCE" />
 		</rules>
 	</element>
-	<element name="Wand of Switcharoo" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_WAND_SWITCHAROO">
+	<element name="Wand of Switcharoo" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_WAND_SWITCHAROO">
 		<description>
 			<p>Once a day, when pointed at another creature of similar size within 100ft, the target and the holder of the wand will switch places. If the target is unwilling to switch, it must succeed a DC 17 Constitution saving throw to remain in place.</p>
 		
@@ -162,7 +162,7 @@
 		</setters>
 		<rules />
 	</element>
-	<element name="Ring of Recall" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_RING_OF_RECALL">
+	<element name="Ring of Recall" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_RING_OF_RECALL">
 		<description>
 			<p>A small ring that allows the spellcaster wearing it to regain a spell slot after having failed in casting a spell.</p>
 		</description>
@@ -175,7 +175,7 @@
 			<set name="rarity">Uncommon</set>
 		</setters>
 	</element>
-	<element name="Pupil's Robes" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_PUPIL_ROBES">
+	<element name="Pupil's Robes" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_PUPIL_ROBES">
 		<description>
 			<p>Surplus from a prestigious wizard academy, these robes are given to talented youth at the beginning of their magic career. They give the wearer an extra level 1 spell slot. Unfortunately, they were tailored for literal children and are very revealing and very, very upsetting when worn by an adult.</p>
 		</description>
@@ -189,7 +189,7 @@
 			<set name="rarity">Uncommon</set>
 		</setters>
 	</element>
-	<element name="Plastic Sheriff's Badge" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_SHERIFF_BADGE">
+	<element name="Plastic Sheriff's Badge" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_SHERIFF_BADGE">
 		<description>
 			<p>Adds +3 to deception skill checks when impersonating a person of authority.</p>
 		</description>
@@ -205,7 +205,7 @@
 		</setters>
 		<rules />
 	</element>
-	<element name="Lens of Straight Creeping" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_STRAIGHT_CREEPING">
+	<element name="Lens of Straight Creeping" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_STRAIGHT_CREEPING">
 		<description>
 			<p>A monocle that allows the user to once a day see the footprints of a specific person or creature that has been within the area.</p>
 		</description>
@@ -220,7 +220,7 @@
 			<set name="rarity">Uncommon</set>
 		</setters>
 	</element>
-	<element name="The Friendly Face" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_FRIENDLY_FACE">
+	<element name="The Friendly Face" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_FRIENDLY_FACE">
 		<description>
 			<p>When wearing this mask, the wearer appears to onlookers as the person they expected to see next. It is a perfect physical disguise and the wearer gets advantage on deception rolls while wearing the mask. However, the wearer does not know who they appear to be and must be careful when interacting with multiple people as the wearer will appear as different people to different onlookers, depending on who they expected to see. Anyone who knows them, as that is who they would expect to see.</p>
 				<p class="indent">This effect does not work on any creature that is immune to illusion magic or that has True Seeing.</p>
@@ -235,4 +235,293 @@
 			<set name="rarity">Uncommon</set>
 		</setters>
 	</element>
+	<element name="Aïki Noodles" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_AIKI_NOODLES">
+		<description>
+			<p>These cups are filled with dried wheat noodles and (depending on flavour) dried vegetables (like peas and carrots) and some curry powder. They require boiling water to resubstitute the dried contents and form a tasty, albeit unhealthy snack.</p>
+			<p class="indent">Please bring your cup to your local recycling plant after eating.</p>
+			
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">50</set>
+			<set name="weight" lb="2">1/4 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Magic Aïki Noodles" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_AIKI_NOODLES">
+		<description>
+			<p>These cups are filled with dried wheat noodles and (depending on flavour) dried vegetables (like peas and carrots) and some curry powder. They require boiling water to resubstitute the dried contents and form a tasty, albeit unhealthy snack.</p>
+			<p class="indent">Please bring your cup to your local recycling plant after eating.</p>
+			<p class="indent">Legends tell of mythical cups that can generate their own water after tapping thrice on the bottom, but surely that’s just rumours.</p>
+			
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">150</set>
+			<set name="weight" lb="2">1/4 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Lock Auto-Smith" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_AIKI_NOODLES_M">
+		<description>
+			<p>During a long-rest, you may wind this item up as a part of your rest.</p>
+			<p class="indent">If the Auto-Smith is wound, you may place the kit on a lock. Over the next minute, the mechanism will destroy the lock and replace it with a new one. If interuppted before the minute is done, the lock it was working on is irrepairably damaged, and can never be unlocked or opened without completely destroying it. At the end of the minute, the new lock is ready, and the Auto-Smith produces the key for the new lock. During the minute, the Auto-Smith produces a loud whirring and clicking noise, audible for 100 feet on both sides of the door it is attached to.</p>		
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">800</set>
+			<set name="weight" lb="0">1/2 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Memory Vessel" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_MEMORY_VESSEL">
+		<description>
+			<p>A small trinket on a chain meant to be worn as a necklace. Persons attuned to it may attempt to imbue the object with a memory - anything, such as a sight, sound, or mathematical equation, or rite of ritual component list, or whatever. Anyone who touches the object can now receive the memory.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">300</set>
+			<set name="slot">neck</set>
+			<set name="weight" lb="1">1 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Nose of Juggling" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_NOSE_OF_JUGGLING">
+		<description>
+			<p>A creature wearing this bright red clown nose has advantage in Dexterity (Performance) checks made to juggle up to 4 items.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">200</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Shuffledeck" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_SHUFFLEDECK">
+		<description>
+			<p>This deck of 52 cards is always random when you compile it, but the longer you spend shuffling the deck, the closer it gets to perfectly ordered. If you shuffle it for more than one minute, it orders perfectly.</p>
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">50</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Alarm Chalk" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_ALARM_CHALK">
+		<description>
+			<p>A weird piece of chalk that somehow seems to be extremely jumpy and nervous. Things written in this chalk - if touched or otherwise disturbed - sound an alarm spell.</p>
+			</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">250</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+		<rules />
+	</element>
+	<element name="Token of Median Outcomes" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_MEDIUM_OUTCOME">
+		<description>
+			<p>This coin is made of iron. One face depicts a bored man of average looks, the other a scale measuring equal weights. Flipping the coin will always result in the opposite of the previous flip. While attuned to the token, whenever you make a skill check, saving throw, or attack roll, roll 2d10 instead of a d20.</p>
+			
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">600</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Shriek Paste" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_SHRIEK_PASTE">
+		<description>
+			<p>A jar of paste in an opaque jar. The label says "Please do not expose to sunlight."</p>
+			
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">100</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Cloak of Escaping" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_CLOAK_OF_ESCAPING">
+		<description>
+			<p>When you are hit by an attack while wearing this grey, silver-threaded cloak, you can use your reaction to teleport to an unoccupied space you can see up to 30 feet away, causing the attack to miss.</p>
+			<p class="indent">If you teleport to a space within 5 feet of a hostile creature, you can make one free attack against that creature with advantage.</p>		
+			<p class="indent">Once you use this feature, you can't use it again until you finish a short or long rest.</p>		
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">900</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="slot">shoulders</set>
+			<set name="type">Wondrous Item</set>
+			<set name="attunement">true</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Cloak of Tavern Corners" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_CLOAK_OF_TAVERN_CORNERS">
+		<description>
+			<p>Pulling up the hood of this black cloak causes your features to become heavily obscured to other creatures.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">200</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="slot">shoulders</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Ring of Displacement" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_RING_OF_DISPLACEMENT">
+		<description>
+			<p>While wearing this ring, you can use your bonus action to cause it to teleport from finger to finger, into one of your pockets, or onto the ground.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">200</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="slot">ring</set>
+			<set name="type">Wondrous Item</set>
+			<set name="attunement">true</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Mug of Heating and Cooling" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_MUG_OF_HEATING_AND_COOLING">
+		<description>
+			<p>Any liquid poured into this festive-looking, ceramic mug is instantly heated or cooled to a tempature of your choosing, as long as the liquid does not boil or freeze. The mug has no effect on magical liquids or harmful substances such as poisons, acids, or explosives.</p>
+			</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">200</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+		<rules />
+	</element>
+	<element name="Chicken pot" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_CHICKEN_POT">
+		<description>
+			<p>As an action you can reach your hand into this small iron caldron and withdraw a single live chicken, epxending a charge in the process. Every dawn, the post is reset to have 1d20 charges.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">300</set>
+			<set name="weight" lb="0">2 lb.</set>
+			<set name="slot">Ring</set>
+			<set name="type">Wondrous Item</set>
+			<set name="attunement">true</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	
+	</element>
+	<element name="Arcane Trickster’s Glove" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_TRICKSTER_GLOVE">
+		<description>
+			<p>This glove turns your “Mage Hand” spell invisible, allowing you to perform stealthy actions, such as pickpocketing, slight-of-hand, or other acts of remote legerdemain. For these checks, use your Arcana score, instead of Stealth or Slight of Hand.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">1500</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="slot">hands</set>
+			<set name="type">Wondrous Item</set>
+			<set name="attunement">true</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Glutton’s Fork" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_GLUTTONS_FORK">
+		<description>
+			<p>Once a day this fork will allow the user to eat any non-magical item they can fit in their mouth and gain 2d6 HP. Just tap the fork on the item and it will turn edible.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="slot"></set>
+			<set name="type">Wondrous Item</set>
+			<set name="attunement">true</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Haunted Doll" type="Magic Item" source="Kaprevare VIP" id="ID_HAUNTED_DOLL">
+		<description>
+			<p>This doll is very creepy. If its owner ever fails a third death save, the doll will take the hit instead, and will die in place of its owner.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">100</set>
+			<set name="weight" lb="0">6 lb.</set>
+			<set name="slot"></set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Mathias the Living Grimoire" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_MATTHIAS">
+		<description>
+			<p>This clockwork owl has been owned by dozens of different wizards throughout its lifespan and can now recite arcane knowledge on command. All Arcana checks made by the player who owns this item gain advantage. In addition, the player can use the owl to prepare a spell they do not know once per day. The spell still takes up a spell slot of the spell’s level.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">1300</set>
+			<set name="weight" lb="0">10 lb.</set>
+			<set name="slot"></set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+		<rules>
+			<grant type="Vision" id="ID_VISION_DARKVISION" />
+		</rules>
+	</element>
+	<element name="Immovable Rod" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_IMMOVABLE_ROD_K">
+		<description>
+			<p>This rod is a flat iron bar with a small button on one end. When the button is pushed (a move action), the rod does not move from where it is, even if staying in place defies gravity. Thus, the owner can lift or place the rod wherever he wishes, push the button, and let go. Several immovable rods can even make a ladder when used together (although only two are needed). An immovable rod can support up to 8,000 pounds before falling to the ground. If a creature pushes against an immovable rod, it must make a DC 30 Strength check to move the rod up to 10 feet in a single round.</p>
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">1100</set>
+			<set name="weight" lb="0">6 lb.</set>
+			<set name="slot"></set>
+			<set name="type">Wondrous Item</set>
+			<set name="attunement">true</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Pocket Spa" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_POCKET_SPA">
+	
+		<description>
+			<p>A pocket-sized tent that inflates to normal size upon use (four people can fit within). Short rests taken within will grant an extra 1d8 HP</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">1000</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="slot"></set>
+			<set name="type">Wondrous Item</set>
+			<set name="attunement">true</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+
+		</element>
+		
 </elements>
