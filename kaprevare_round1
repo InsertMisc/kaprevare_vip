@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Kaprevare Round 1</name>
+		<description></description>
+		<author url="http://homebrewery.naturalcrit.com/share/BJ-Lgr339G">Your Best Friend</author>
+		<update version="0.0.1">
+			<file name="kaprevare_round1.xml" uxxxrl="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/dungeon-masters-guide/items/items-wondrous.xml" />
+		</update>
+	</info>
+	<element name="Holy Guacamole" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_HOLY_GUACAMOLE">
+		<description>
+			<p>A holy symbol that contains a cover featuring an old, skinny lady. Allows the user to more easily spread the good word of their deity by comparing the scripture to avocado-basd recipes.</p>
+			<p class="indent">+1 holy symbol, affects spells used by the owner.</p>
+			<p class="indent">Once the jug starts producing a liquid, it can't produce a different one, or more of one that has reached its maximum, until the next dawn.</p>
+			
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">350</set>
+			<set name="weight" lb="0">1 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Ring of pointing" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_RING_OF_POINTING">
+		<description>
+			<p>A copper ring with an inlad ruby that projects a small visible dot onto any surface.</p>
+		</description>
+		<setters>
+			<set name="keywords">divination, scry</set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">200</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="slot">ring</set>
+			<set name="type">Ring</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Brawny Bubble's Blind Bag (5th Edition)" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_BRAWNY">
+		<description>
+			<p>It's what all the kids nowadays think is hip and cool!</p>
+			<p class="indent">This wacky world is full of extremele wacky magic, and you can be part of it! So go ahead, Pop that Bubble™! and discover the magic goodie that fate has chosen for you. Collect all 100 of them!</p>
+			<p class="indent">Included: 1 piece of bubblegum + 1 magic item</p>
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">150</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Scuttle Buddy" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_SCUTTLE_BUDDY">
+		<description>
+			<p>A mechanical beetle that the user can use for spying. It will talk to the user, but won't have anything interesting to say beyond its primary function. The owner can wind it up four times before it breaks. The beetle can easily fit through small places and climb walls. It cannot fly and is very fragile.</p>
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">500</set>
+			<set name="weight" lb="0.5">6 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Phantom Fist" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_PHANTOM FIST">
+		<description>
+			<p>A guantlet that grants the user +1 to unarmed attack rolls. When successful, the target must succeed a DC 15 Dexterity saving throw or be knocked back 2d4 feet.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="0">1/2 lb.</set>
+			<set name="slot">hands</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Greased Lightning" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_GREASED_LIGHTNING">
+		<description>
+			<p>A tin of shimmering grease that reminds you of summer loving and of your years spent illegally transporting moonshine. Looks like there is enough left in the tin to coat a single non-magical weapon.</p>
+			<p class="indent">When applied to a non-magical weapon, the weapon will now either do standard damage or electric damage. (The amount of damage does not change, only the type of damage.)</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">300</set>
+			<set name="weight" lb="0">1/2 lb.</set>
+			<set name="slot"></set>
+			<set name="type">Wondrous Item</set>
+			<set name="attunement">true</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+		<rules>
+			<stat name="Speed" value="30" bonus="base" />
+		</rules>
+	</element>
+	<element name="Rusted Can of Bean Juice" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_BEAN_JUICE">
+		<description>
+			<p>A very badly worn can that radiates vital energy. Whoever drinks its contents gains +5 to their max hit points.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">400</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="type">Potion</set>
+			<set name="type">Wondrous Item</set>
+			<set name="attunement">true</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+		<rules>
+			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
+		</rules>
+	</element>
+	<element name="Phone-a-friend Scrying Bones" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_PHONE_A_FRIEND">
+		<description>
+			<p>Once per day, can be used to ask a yes, no, or maybe question to the fates (DM). There are three bones carved into people with happy faces and sad faces. All happy faces mean yes, all sad faces mean no, anything in between means maybe. The DM can respond or choose not to answer.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">500</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="slot"></set>
+			<set name="type">Wondrous Item</set>
+			<set name="attunement">true</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Stone of Far Speech" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_STONES_OF_FARSPEECH">
+		<description>
+			<p>A small stone that can connect to other similar stones and allow for communication between the owners.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">100</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="slot"></set>
+			<set name="type">Wondrous Item</set>
+			<set name="attunement">true</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+		<rules>
+			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_FORCE" />
+		</rules>
+	</element>
+	<element name="Wand of Switcharoo" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_WAND_SWITCHAROO">
+		<description>
+			<p>Once a day, when pointed at another creature of similar size within 100ft, the target and the holder of the wand will switch places. If the target is unwilling to switch, it must succeed a DC 17 Constitution saving throw to remain in place.</p>
+		
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="3">1/2 lb.</set>
+			<set name="type">Wand</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+		<rules />
+	</element>
+	<element name="Ring of Recall" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_RING_OF_RECALL">
+		<description>
+			<p>A small ring that allows the spellcaster wearing it to regain a spell slot after having failed in casting a spell.</p>
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">1000</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="slot">ring</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Pupil's Robes" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_PUPIL_ROBES">
+		<description>
+			<p>Surplus from a prestigious wizard academy, these robes are given to talented youth at the beginning of their magic career. They give the wearer an extra level 1 spell slot. Unfortunately, they were tailored for literal children and are very revealing and very, very upsetting when worn by an adult.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">600</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="slot">shoulders</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="Plastic Sheriff's Badge" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_SHERIFF_BADGE">
+		<description>
+			<p>Adds +3 to deception skill checks when impersonating a person of authority.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">500</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="slot">shoulders</set>
+			<set name="type">Wondrous Item</set>
+			<set name="attunement">true</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+		<rules />
+	</element>
+	<element name="Lens of Straight Creeping" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_STRAIGHT_CREEPING">
+		<description>
+			<p>A monocle that allows the user to once a day see the footprints of a specific person or creature that has been within the area.</p>
+		</description>
+		<setters>
+			<set name="keywords">monocle</set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">400</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="slot">eye</set>
+			<set name="type">Wondrous Item</set>
+			<set name="attunement">true</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	<element name="The Friendly Face" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE_FRIENDLY_FACE">
+		<description>
+			<p>When wearing this mask, the wearer appears to onlookers as the person they expected to see next. It is a perfect physical disguise and the wearer gets advantage on deception rolls while wearing the mask. However, the wearer does not know who they appear to be and must be careful when interacting with multiple people as the wearer will appear as different people to different onlookers, depending on who they expected to see. Anyone who knows them, as that is who they would expect to see.</p>
+				<p class="indent">This effect does not work on any creature that is immune to illusion magic or that has True Seeing.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">700</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="slot">face</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+	</elements>
