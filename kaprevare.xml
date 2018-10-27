@@ -235,4 +235,19 @@
 			<set name="rarity">Uncommon</set>
 		</setters>
 	</element>
+</element>
+<element name="Aïki Noodles" type="Magic Item" source="Kaprevare VIP I" id="ID_KAPREVARE__DECANTER_OF_AIKI_NOODLES">
+		<description>
+			<p>These cups are filled with dried wheat noodles and (depending on flavour) dried vegetables (like peas and carrots) and some curry powder. They require boiling water to resubstitute the dried contents and form a tasty, albeit unhealthy snack.</p>
+			<p class="indent">Please bring your cup to your local recycling plant after eating.</p>
+			
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">50</set>
+			<set name="weight" lb="2">.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
 </elements>
