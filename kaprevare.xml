@@ -3,14 +3,14 @@
 	<info>
 		<name>Kaprevare</name>
 		<description></description>
-		<author url="http://homebrewery.naturalcrit.com/share/BJ-Lgr339G">Your Best Friend</author>
+		<author url="http://homebrewery.naturalcrit.com/share/BJ-Lgr339G">InsertMisc</author>
 		<update version="0.0.1">
 			<file name="kaprevare.xml" url="https://raw.githubusercontent.com/InsertMisc/kaprevare_vip/master/kaprevare.xml" />
 		</update>
 	</info>
 	<element name="Holy Guacamole" type="Magic Item" source="Kaprevare VIP" id="ID_KAPREVARE_HOLY_GUACAMOLE">
 		<description>
-			<p>A holy symbol that contains a cover featuring an old, skinny lady. Allows the user to more easily spread the good word of their deity by comparing the scripture to avocado-basd recipes.</p>
+			<p>A holy symbol that contains a cover featuring an old, skinny lady called Sandra Nasserts. Allows the user to more easily spread the good word of their deity by comparing the scripture to avocado-basd recipes.</p>
 			<p class="indent">+1 holy symbol, affects spells used by the owner.</p>
 			<p class="indent">Once the jug starts producing a liquid, it can't produce a different one, or more of one that has reached its maximum, until the next dawn.</p>
 			
